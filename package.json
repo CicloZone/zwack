@@ -2,9 +2,7 @@
   "author": {
     "name": "Pedro Paixao"
   },
-  "maintainers": [
-    "CicloZone"
-  ],
+  "maintainers": ["CicloZone"],
   "bugs": {
     "url": "https://github.com/CicloZone/zwack/issues"
   },
@@ -45,5 +43,5 @@
     "simulator": "node ./example/simulator.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.0"
+  "version": "0.1.6"
 }
